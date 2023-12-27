@@ -10,7 +10,9 @@ Step by step:
 1- I opened VScode and created 3 files:
 
 > index.html
+
 > style.css
+
 > index.js
 
 2- In index.html I placed the entire organization of what the flower would look like and the background as well
